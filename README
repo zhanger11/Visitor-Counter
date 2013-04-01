@@ -1,0 +1,7 @@
+index.php is my main php script that calls my python scripts
+
+counter.py reads from counter.txt and echoes it
+
+increment.py reads from counter.txt and updates it by ++-ing it
+
+time.py appends to time.txt the current time
